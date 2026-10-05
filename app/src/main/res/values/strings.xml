@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Controls Demo</string>
+    <string name="page_title">Android Controls Demo</string>
+    <string name="hint_enter_text">Type your text here</string>
+    <string name="button_submit">Submit</string>
+    <string name="button_change_image">Change Image</string>
+    <string name="checkbox_text">Enable notifications</string>
+    <string name="radio_title">Choose an option</string>
+    <string name="radio_one">Option 1</string>
+    <string name="radio_two">Option 2</string>
+    <string name="radio_three">Option 3</string>
+    <string name="button_show_alert">Show Alert Dialog</string>
+    <string name="button_run_progress">Run Progress Bar</string>
+    <string name="status_ready">Status: Ready</string>
+</resources>
